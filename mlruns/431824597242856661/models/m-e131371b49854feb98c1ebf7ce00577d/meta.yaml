@@ -1,0 +1,10 @@
+artifact_location: file:///D:/kali/MALLA%20REDDY%20clg/DAY-20%20MLops/mlops_project/mlruns/431824597242856661/models/m-e131371b49854feb98c1ebf7ce00577d/artifacts
+creation_timestamp: 1753367463214
+experiment_id: '431824597242856661'
+last_updated_timestamp: 1753367466090
+model_id: m-e131371b49854feb98c1ebf7ce00577d
+model_type: null
+name: student_model
+source_run_id: 628c1107c2b643eeba6d1c82e8e1bcda
+status: 2
+status_message: null
